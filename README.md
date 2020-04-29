@@ -4,6 +4,8 @@ CR-10 3D Printer Modification
 
 This is a modification of the CR-10 S4 3D printer. It is a complete change to the Y X and Z axis to imitate the Prusa style printer specifically the Prusa MK2 and MK3 range. The main things provided by this modification are the parts for the Y and Z axis. THe X axis can be parts from the Prusa, Zaribo and Bear range of pruse printers and modifications. There are 8mm and 10mm veriants of the Z axis. To be able to use the 10mm Z and or X axis currently you would need to use the Z and or X axis of Zaribo printer. I have included X motor and X idlers that have been modified to use the creality switch, these were originally designed by Vekoj.
 
+There is a template that can be printed to help drill holes in the CR-10 Y carriage so that the bearings can be attached.
+
 Bill of Materials for 8mm
 
 Z Axis:
