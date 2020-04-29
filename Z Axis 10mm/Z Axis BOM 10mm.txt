@@ -4,4 +4,4 @@ Z Axis:
 16 x M4 Slot in T nuts
 8 x M3 8mm Cap Head Bolt FOR MOTORS
 2 x 535mmx10mm Linear Smooth Rods
-4 x LM10LUU Linear Bearing
+2 x LM10LUU Linear Bearing
