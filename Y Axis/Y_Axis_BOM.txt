@@ -1,0 +1,16 @@
+Y Axis:
+2 x 12mmx500mm Linear Smooth Rods
+3 x SCS12UU
+12 x M5 10mm Cap Head Bolts FOR BEARING MOUNTING
+5 x M3 10mm Cap Head Bolts
+4 x M3 Locknuts FOR Y IDLER AND Y BELT HOLDER
+4 x M4 10mm Cap Head Bolts FOR Y ROD HOLDERS
+8 x M4 16mm Cap Head Bolts FOR Y ROD HOLDERS
+16 x M4 Slot in T nuts
+2 x M4 12mm Cap Head Bolts FOR Y IDLER
+2 x M4 10mm Cap Head Bolts FOR Y MOTOR MOUNT
+2 x M3 20mm Cap Head Bolts FOR Y IDLER ADJUSTER
+1 x Microswitch for endstop
+GT2 6mm Timing Belt
+1 x 2GT 6mm Belt Timing Pulley 16T Toothless
+1 x 2GT 6mm Belt Timing Pulley 16T Toothed to attach to motor
