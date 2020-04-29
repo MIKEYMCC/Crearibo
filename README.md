@@ -71,4 +71,4 @@ Firmware
 
 Is not currently provided as there can be differences in the mainboards used. I am personally using an SKR 1.4 Turbo and the firmware created by Chris Warkocki for the Bear can be used with changes to the axis lengths.
 
-
+A lot of this mod has been made possible by the work of other groups and people namely Prusa, Zaribo and Bear.
