@@ -8,66 +8,118 @@ There is a template that can be printed to help drill holes in the CR-10 Y carri
 
 Bill of Materials for 8mm
 
+
 Z Axis:
+
 6 x M4 10mm Cap Head Bolt FOR Z MOTOR MOUNTS
+
 6 x M4 10mm Cap Head Bolt FOR Z TOP MOUNTS
+
 16 x M4 Slot in T nuts
+
 8 x M3 8mm Cap Head Bolt FOR MOTORS
+
 2 x 535mmx8mm Linear Smooth Rods
+
 4 x LM8UU Leanir Bearing
 
+
 Y Axis:
+
 2 x 12mmx500mm Linear Smooth Rods
+
 3 x SCS12UU
+
 12 x M5 10mm Cap Head Bolts FOR BEARING MOUNTING
+
 5 x M3 10mm Cap Head Bolts
+
 4 x M3 Locknuts FOR Y IDLER AND Y BELT HOLDER
+
 4 x M4 10mm Cap Head Bolts FOR Y ROD HOLDERS
+
 8 x M4 16mm Cap Head Bolts FOR Y ROD HOLDERS
+
 16 x M4 Slot in T nuts
+
 2 x M4 12mm Cap Head Bolts FOR Y IDLER
+
 2 x M4 10mm Cap Head Bolts FOR Y MOTOR MOUNT
+
 2 x M3 20mm Cap Head Bolts FOR Y IDLER ADJUSTER
+
 1 x Microswitch for endstop
+
 GT2 6mm Timing Belt
+
 1 x 2GT 6mm Belt Timing Pulley 16T Toothless
+
 1 x 2GT 6mm Belt Timing Pulley 16T Toothed to attach to motor
+
 4 x Spacers for the bed to sit on.
 
+4 x M3 12mm Cap Head Bolts for Y Carriage Belt Holder
+
+4 x M3 Nut Square Y Carriage Belt Holder
+
+
+
 X Axis:
+
 2 x 415mmx8mm Linear Smooth Rods
+
 3 x LM8UU Linear Bearinh
+
 For the 10mm rod version you need 420mm long rods.
+
 
 LCD Mounts:
 
 2 x M4 10mm Cap Head Bolts
+
 2 x M4 Slot in T nuts
 
 Mosfet Case:
 
 4 x M3 10mm Cap Head Bolts
+
 4 x M3 8mm Cap Head Bolts
+
 4 x M3 Square Nuts
+
 4 x M3 Nut
+
 1 x M4 10mm Cap Head Bolt
+
 1 x M4 Slot in T nut
+
 
 PSU case:
 
 5 x M4 10mm Cap Head Bolts
+
 5 x M4 Slot in T nut
+
 4 x M4 8mm Counter Sunk Bolts
+
 
 Bill of Materials for 10mm
 
+
 Z Axis:
+
 6 x M4 10mm Cap Head Bolt FOR Z MOTOR MOUNTS
+
 8 x M4 10mm Cap Head Bolt FOR Z TOP MOUNTS
+
 16 x M4 Slot in T nuts
+
 8 x M3 8mm Cap Head Bolt FOR MOTORS
+
 2 x 535mmx10mm Linear Smooth Rods
+
 2 x LM10LUU Linear Bearing
+
 
 Firmware
 
