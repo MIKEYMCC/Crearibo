@@ -74,7 +74,7 @@ X Axis:
 
 3 x LM8UU Linear Bearinh
 
-For the 10mm rod version you need 420mm long rods.
+For the 10mm rod version you need 420mm long rods and bearings as specified by zaribo.
 
 
 LCD Mounts:
