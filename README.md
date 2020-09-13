@@ -2,7 +2,7 @@
 
 CR-10 3D Printer Modification
 
-This is a modification of the CR-10 S4 3D printer. It is a complete change to the Y X and Z axis to imitate the Prusa style printer specifically the Prusa MK2 and MK3 range. The main things provided by this modification are the parts for the Y and Z axis. THe X axis can be parts from the Prusa, Zaribo and Bear range of pruse printers and modifications. There are 8mm and 10mm veriants of the Z axis. To be able to use the 10mm Z and or X axis currently you would need to use the Z and or X axis of the Zaribo printer. I have included X motor and X idlers that have been modified to use the creality switches, these are for 8mm only, these were originally designed by Vekoj. 
+This is a modification of the CR-10 S4 3D printer. It is a complete change to the Y X and Z axis to imitate the Prusa style printer specifically the Prusa MK2 and MK3 range. The main things provided by this modification are the parts for the Y and Z axis. THe X axis can be parts from the Prusa, Caribou and Bear range of pruse printers and modifications. There are 8mm and 10mm veriants of the Z axis. To be able to use the 10mm Z and or X axis currently you would need to use the Z and or X axis of the Caribou printer. I have included X motor and X idlers that have been modified to use the creality switches, these are for 8mm only, these were originally designed by Vekoj. 
 
 To help with aligning the Y rods the holders edge should be 101mm from the edge of the extrusion with the endcap removed.
 
@@ -127,4 +127,4 @@ Firmware
 
 Is not currently provided as there can be differences in the mainboards used. I am personally using an SKR 1.4 Turbo and the firmware created by Chris Warkocki for the Bear can be used with changes to the axis lengths.
 
-A lot of this mod has been made possible by the work of other groups and people namely Prusa, Zaribo, Vekoj (thingiverse name) and Bear.
+A lot of this mod has been made possible by the work of other groups and people namely Prusa, Caribou, Vekoj (thingiverse name) and Bear.
